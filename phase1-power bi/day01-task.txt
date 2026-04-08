@@ -1,0 +1,28 @@
+Day1-Data in My Life
+
+Phone Screen Time
+Who collects this data: digital well being settings in my mobile phone.
+What decision it helps make: Helps me decide how to reduce distractions and manage my daily time better.
+
+Sleep Duration 
+Who collects this data: By me or my mom
+What decision it helps make: Helps me to decide if I need to improve my sleep schedule for better health.
+
+Exam Marks
+Who collects this data: My college teachers
+What decision it helps make: Helps me to understand my strengths and weaknesses and decide what subjects to focus on.
+
+Daily Rainfall in My City
+Who collects this data: Meteorological Department
+What decision it helps make: Helps me to decide whether to carry an umbrella or plan outdoor activities.
+
+Online Shopping History
+Who collects this data: Amazon or Flipkart
+What decision it helps make: It helps to recommend products and helps me track my spending habits.
+
+One Question I Want to Answer Using Data:
+“How can I use my daily routine data (sleep, study time, and phone usage) to become more productive?"
+
+
+
+ 
